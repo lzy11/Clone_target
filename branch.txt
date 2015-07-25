@@ -1,2 +1,6 @@
 branch test!!!
+<<<<<<< HEAD
 Another branch!!! How to merge?
+=======
+Another branch!!
+>>>>>>> feature1
